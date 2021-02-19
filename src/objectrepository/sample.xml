@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login_test>
+<untf>username</untf>
+<pwtf>pwd</pwtf>
+<login>//input[@type='submit']</login>
+</login_test>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37089" started-at="2019-09-12T15:59:47Z" finished-at="2019-09-12T16:00:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37089" started-at="2019-09-12T15:59:47Z" finished-at="2019-09-12T16:00:24Z">
+      <class name="pageobjectmodelusingpagefactorydesignpattern.CreateCustomer">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:pageobjectmodelusingpagefactorydesignpattern.CreateCustomer@1b604f19]" name="openBrowser" is-config="true" duration-ms="21557" started-at="2019-09-12T21:29:47Z" finished-at="2019-09-12T21:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginTOActitime()[pri:0, instance:pageobjectmodelusingpagefactorydesignpattern.CreateCustomer@1b604f19]" name="loginTOActitime" is-config="true" duration-ms="7481" started-at="2019-09-12T21:30:09Z" finished-at="2019-09-12T21:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTOActitime -->
+        <test-method status="PASS" signature="testCreateCustomer()[pri:0, instance:pageobjectmodelusingpagefactorydesignpattern.CreateCustomer@1b604f19]" name="testCreateCustomer" duration-ms="6986" started-at="2019-09-12T21:30:16Z" finished-at="2019-09-12T21:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateCustomer -->
+        <test-method status="PASS" signature="logoutFromActitime()[pri:0, instance:pageobjectmodelusingpagefactorydesignpattern.CreateCustomer@1b604f19]" name="logoutFromActitime" is-config="true" duration-ms="730" started-at="2019-09-12T21:30:23Z" finished-at="2019-09-12T21:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromActitime -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:pageobjectmodelusingpagefactorydesignpattern.CreateCustomer@1b604f19]" name="closeBrowser" is-config="true" duration-ms="265" started-at="2019-09-12T21:30:24Z" finished-at="2019-09-12T21:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pageobjectmodelusingpagefactorydesignpattern.CreateCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
